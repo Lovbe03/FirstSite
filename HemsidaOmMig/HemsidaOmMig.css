@@ -3,11 +3,13 @@ h1 {font-size: 30px;}
 h1 {color: darkred;}
 h1:hover {color: crimson;}
 h1{text-align: center;}
+h1{border: 2px solid darkred;}
 h4 {color: darkred;}
 img {border-radius: 10px;}
 img {border: 5px solid darkred;}
+img {box-shadow: 5px 5px 5px crimson;}
 p{font-size: 36px;}
 p{color:darkred}
-li {font-size: 20px;}
+li {font-size:30px;}
 li {color: darkred;}
-body {background-color: lightpink;} +
+body {background-color: lightpink;}s
